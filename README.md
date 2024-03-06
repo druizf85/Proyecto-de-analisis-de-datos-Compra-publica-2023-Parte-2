@@ -41,6 +41,10 @@ Se puede identificar que el trimestre 3 (julio, agosto y septiembre) hubo menor 
 
 Se puede evidenciar el top 10 de las entidades que más contratos publicaron bajo la modalidad de mínima cuantía.
 
+Se fijó el top 10 en las opciones de filtro
+
+![image](https://github.com/druizf85/Proyecto-de-analisis-de-datos-Compra-publica-2023-Parte-2/assets/121362745/e779304f-443d-48fa-855c-66f4e5c81f88)
+
 (iv)	Mostrar el top 10 de proveedores que más valor de órdenes de compra firmaron en el 2023.
 
 ![image](https://github.com/druizf85/Proyecto-de-analisis-de-datos-Compra-publica-2023-Parte-2/assets/121362745/44ecf495-27d2-4768-9bf2-949e3a774890)
